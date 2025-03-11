@@ -1,0 +1,12 @@
+venv/
+/venv/
+venv/*
+
+/assets/uploads/*
+
+__pycache__/
+__pycache__
+
+migrations
+migrations/
+/migrations/
